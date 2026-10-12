@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="httss://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contact-Center-As-A-Service-CCaaS/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-brightgreen.svg?style=flat-square" alt="License" /></a>
@@ -68,67 +68,67 @@ The following matrix compares category-leading proprietary and cloud CCaaS offer
 
 Explore battle-tested open-source repositories for self-hosting, carrier-grade SIP routing, programmable voice engines, and modern omnichannel agent workspaces. **Sorted by GitHub stargazers count (descending):**
 
-1. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+1. **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
    Enterprise open-source team communications and customer service messaging hub (MIT). Features omnichannel live chat widgets, WhatsApp, Facebook Messenger, and Instagram bridges, team routing, and agent queue management.
 
-2. **[Novu](https://github.com/novuhq/novu)** [![GitHub stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
+2. **[Novu](https://github.com/novuhq/novu)** [![GitHub_Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers)  
    Open-source notification and customer communication infrastructure (MIT). Orchestrates multi-channel delivery across SMS, email, in-app notifications, and chat triggers for automated contact center outbound alerts and ticket updates.
 
-3. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
+3. **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)  
    Modern open-source omnichannel customer engagement platform (MIT). Delivers agent shared inboxes, website live chat, email ticketing, WhatsApp/Telegram/SMS integrations, auto-assignment rules, and CRM connectivity.
 
-4. **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
+4. **[Jitsi Meet](https://github.com/jitsi/jitsi-meet)** [![GitHub_Stars](https://img.shields.io/github/stars/jitsi/jitsi-meet?style=social&color=white)](https://github.com/jitsi/jitsi-meet/stargazers)  
    Fully encrypted, 100% open-source video conferencing solution (Apache-2.0). Ideal for integrating high-definition video kiosks, screen-sharing escalation, and telehealth visual interactions directly into contact center agent desktops.
 
-5. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
+5. **[LiveKit](https://github.com/livekit/livekit)** [![GitHub_Stars](https://img.shields.io/github/stars/livekit/livekit?style=social&color=white)](https://github.com/livekit/livekit/stargazers)  
    End-to-end WebRTC stack and real-time audio/video platform (Apache-2.0). Powering next-gen conversational AI voice agents, sub-second latency telephony streams, and ultra-scalable browser-based agent audio channels.
 
-6. **[Fonoster](https://github.com/fonoster/fonoster)** [![GitHub stars](https://img.shields.io/github/stars/fonoster/fonoster?style=social&color=white)](https://github.com/fonoster/fonoster/stargazers)  
+6. **[Fonoster](https://github.com/fonoster/fonoster)** [![GitHub_Stars](https://img.shields.io/github/stars/fonoster/fonoster?style=social&color=white)](https://github.com/fonoster/fonoster/stargazers)  
    The open-source alternative to Twilio (MIT). Provides programmable voice, SMS messaging, and SIP trunking with modern Node.js/TypeScript SDKs, REST APIs, and microservice deployment options.
 
-7. **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
+7. **[Papercups](https://github.com/papercups-io/papercups)** [![GitHub_Stars](https://img.shields.io/github/stars/papercups-io/papercups?style=social&color=white)](https://github.com/papercups-io/papercups/stargazers)  
    Open-source customer messaging platform (MIT) built in Elixir and React. Features embeddable chat widgets, Slack conversation syncing, agent assignments, and customer session tracking.
 
-8. **[Zammad](https://github.com/zammad/zammad)** [![GitHub stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
+8. **[Zammad](https://github.com/zammad/zammad)** [![GitHub_Stars](https://img.shields.io/github/stars/zammad/zammad?style=social&color=white)](https://github.com/zammad/zammad/stargazers)  
    Web-based, open-source customer support and ticketing system (AGPL-3.0). Supports omnichannel communication across email, chat, Telegram, and native CTI telephony integrations with Asterisk and FreeSWITCH.
 
-9. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
+9. **[SuiteCRM](https://github.com/salesagility/SuiteCRM)** [![GitHub_Stars](https://img.shields.io/github/stars/salesagility/SuiteCRM?style=social&color=white)](https://github.com/salesagility/SuiteCRM/stargazers)  
    Enterprise open-source CRM (AGPL-3.0) with robust customer service case management, customer history timelines, and Computer Telephony Integration (CTI) modules for contact center representatives.
 
-10. **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
+10. **[FreeSWITCH](https://github.com/signalwire/freeswitch)** [![GitHub_Stars](https://img.shields.io/github/stars/signalwire/freeswitch?style=social&color=white)](https://github.com/signalwire/freeswitch/stargazers)  
     High-performance, carrier-grade open-source communications engine (MPL-1.1). Handles complex voice, WebRTC, SIP, interactive voice response (IVR), video conferencing, and high-concurrency call switching.
 
-11. **[Erxes](https://github.com/erxes/erxes)** [![GitHub stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
+11. **[Erxes](https://github.com/erxes/erxes)** [![GitHub_Stars](https://img.shields.io/github/stars/erxes/erxes?style=social&color=white)](https://github.com/erxes/erxes/stargazers)  
     Open-source experience operating system (AGPL-3.0) unifying CRM, marketing automation, omnichannel shared inboxes, and help desk ticket management.
 
-12. **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
+12. **[Asterisk](https://github.com/asterisk/asterisk)** [![GitHub_Stars](https://img.shields.io/github/stars/asterisk/asterisk?style=social&color=white)](https://github.com/asterisk/asterisk/stargazers)  
     The legendary open-source PBX and telephony toolkit (GPL-2.0). Provides complete call queue distribution (ACD), voicemail, conferencing, IVR scripting, and the Asterisk REST Interface (ARI) for custom CCaaS platforms.
 
-13. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
+13. **[EspoCRM](https://github.com/espocrm/espocrm)** [![GitHub_Stars](https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white)](https://github.com/espocrm/espocrm/stargazers)  
     Lightweight, fast open-source CRM (GPL-3.0) providing customer support ticket workflows, omnichannel communications logging, and VoIP telephony integration (Twilio, Asterisk, and Starface).
 
-14. **[Kamailio](https://github.com/kamailio/kamailio)** [![GitHub stars](https://img.shields.io/github/stars/kamailio/kamailio?style=social&color=white)](https://github.com/kamailio/kamailio/stargazers)  
+14. **[Kamailio](https://github.com/kamailio/kamailio)** [![GitHub_Stars](https://img.shields.io/github/stars/kamailio/kamailio?style=social&color=white)](https://github.com/kamailio/kamailio/stargazers)  
     Ultra-fast open-source SIP server (GPL-2.0) capable of handling millions of call setups daily. Used by global telecom operators for SIP load balancing, VoIP routing, NAT traversal, and DDoS mitigation.
 
-15. **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)  
+15. **[Live Helper Chat](https://github.com/LiveHelperChat/livehelperchat)** [![GitHub_Stars](https://img.shields.io/github/stars/LiveHelperChat/livehelperchat?style=social&color=white)](https://github.com/LiveHelperChat/livehelperchat/stargazers)  
     Multi-platform open-source live support chat application (Apache-2.0). Supports speech recognition, automated bot workflows, file transfer, and department routing for contact centers.
 
-16. **[Routr](https://github.com/fonoster/routr)** [![GitHub stars](https://img.shields.io/github/stars/fonoster/routr?style=social&color=white)](https://github.com/fonoster/routr/stargazers)  
+16. **[Routr](https://github.com/fonoster/routr)** [![GitHub_Stars](https://img.shields.io/github/stars/fonoster/routr?style=social&color=white)](https://github.com/fonoster/routr/stargazers)  
     Cloud-native, lightweight SIP proxy, location server, and registrar (MIT) written in Node.js and Go. Designed for Kubernetes-driven voice routing, edge WebRTC peering, and multi-tenant telephony.
 
-17. **[OpenSIPS](https://github.com/OpenSIPS/opensips)** [![GitHub stars](https://img.shields.io/github/stars/OpenSIPS/opensips?style=social&color=white)](https://github.com/OpenSIPS/opensips/stargazers)  
+17. **[OpenSIPS](https://github.com/OpenSIPS/opensips)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenSIPS/opensips?style=social&color=white)](https://github.com/OpenSIPS/opensips/stargazers)  
     Multi-functional, enterprise-scale open-source SIP proxy and application server (GPL-2.0). Delivers high-throughput voice load balancing, presence engine, and advanced session management.
 
-18. **[FusionPBX](https://github.com/fusionpbx/fusionpbx)** [![GitHub stars](https://img.shields.io/github/stars/fusionpbx/fusionpbx?style=social&color=white)](https://github.com/fusionpbx/fusionpbx/stargazers)  
+18. **[FusionPBX](https://github.com/fusionpbx/fusionpbx)** [![GitHub_Stars](https://img.shields.io/github/stars/fusionpbx/fusionpbx?style=social&color=white)](https://github.com/fusionpbx/fusionpbx/stargazers)  
     Open-source GUI management platform (MPL-1.1) for FreeSWITCH. Provides multi-tenant contact center administration, inbound/outbound queues, IVR menu designers, call detail records (CDR), and agent status dashboards.
 
-19. **[Wazo Platform](https://github.com/wazo-platform/wazo-platform)** [![GitHub stars](https://img.shields.io/github/stars/wazo-platform/wazo-platform?style=social&color=white)](https://github.com/wazo-platform/wazo-platform/stargazers)  
+19. **[Wazo Platform](https://github.com/wazo-platform/wazo-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/wazo-platform/wazo-platform?style=social&color=white)](https://github.com/wazo-platform/wazo-platform/stargazers)  
     API-first programmable telecommunications platform (GPL-3.0) built on Asterisk. Provides microservices and REST APIs to build bespoke contact center applications, WebRTC clients, and unified communications.
 
-20. **[VICIdial](https://github.com/vicidial/vicidial)** [![GitHub stars](https://img.shields.io/github/stars/vicidial/vicidial?style=social&color=white)](https://github.com/vicidial/vicidial/stargazers)  
+20. **[VICIdial](https://github.com/vicidial/vicidial)** [![GitHub_Stars](https://img.shields.io/github/stars/vicidial/vicidial?style=social&color=white)](https://github.com/vicidial/vicidial/stargazers)  
     Extensively used open-source predictive dialer and contact center software suite (AGPL-2.0). Features blended inbound/outbound calling, campaign managers, agent script prompts, and regulatory compliance logging.
 
-21. **[FreePBX Framework](https://github.com/FreePBX/framework)** [![GitHub stars](https://img.shields.io/github/stars/FreePBX/framework?style=social&color=white)](https://github.com/FreePBX/framework/stargazers)  
+21. **[FreePBX Framework](https://github.com/FreePBX/framework)** [![GitHub_Stars](https://img.shields.io/github/stars/FreePBX/framework?style=social&color=white)](https://github.com/FreePBX/framework/stargazers)  
     The graphical administration framework (GPL-2.0) powering FreePBX and Asterisk. Features queue penalty strategies, call recording archives, ring groups, and time condition routing.
 
 ---
@@ -179,7 +179,7 @@ Contributions from telecom engineers, product managers, and developers are warml
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-my-ccaas-project`).
 3. 📝 **Add or update entries** in `README.md` keeping the Markdown formatting and tabular structure clean.
-4. 🔍 **Verify links and details**: Ensure repository URLs, star badges, and official links are correct.
+4. 🔍 **Verify links and details**: Ensure repository URLs, Stars_Badges, and official links are correct.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project and why it belongs in the CCaaS ecosystem.
 
 ---
