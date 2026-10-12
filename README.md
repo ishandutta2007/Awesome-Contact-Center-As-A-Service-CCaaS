@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Contact Center as a Service (CCaaS) market is valued at approximately **$6.8B to $8.6B in 2026** and is projected to expand to **$18B–$33B by the early 2030s** at an estimated CAGR of 15%–22%, propelled by generative AI copilot adoption and cloud migrations from legacy on-premises telephony. The sector is **moderately concentrated** at the top tier—where established vendors like AWS, Salesforce, NICE, and Genesys command significant market share—alongside a fragmented ecosystem of regional and specialized customer engagement providers.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Contact Center](https://www.salesforce.com/)**  
-
-  Native Salesforce CCaaS integration bringing voice, chat, and case management into Service Cloud. Features Einstein AI for agent assistance, call transcription, and case routing.
-
-
-
-- **[Genesys Cloud CX](https://www.genesys.com/)**  
-
-  Comprehensive CCaaS platform with omnichannel routing, AI-powered forecasting, workforce engagement management, and extensive CRM integrations.
-
-
-
-- **[NICE CXone](https://www.nice.com/)**  
-
-  Cloud contact center platform with omnichannel routing, AI-driven agent assistance (Enlighten), workforce management, and analytics.
-
-
-
-- **[Five9](https://www.five9.com/)**  
-
-  Intelligent cloud contact center with omnichannel routing, AI-powered agent assist, IVA, and workforce optimization. Strong CRM integrations including Salesforce, Microsoft, and Oracle.
-
-
-
-- **[Talkdesk](https://www.talkdesk.com/)**  
-
-  Cloud contact center platform with AI-powered agent assist (Copilot), omnichannel routing, and industry-specific solutions. Deep Salesforce integration.
-
-
-
-- **[AWS Amazon Connect](https://aws.amazon.com/connect/)**  
-
-  Cloud-based contact center service with pay-as-you-go pricing. Features AI-powered agent assist (Contact Lens), omnichannel routing, and extensive AWS ecosystem integration.
-
-
-
-- **[Twilio Flex](https://www.twilio.com/flex)**  
-
-  Programmable cloud contact center platform built on Twilio's communication APIs. Highly customizable with serverless functions and React-based UI.
-
-
-
-- **[8x8 Contact Center](https://www.8x8.com/)**  
-
-  Integrated CCaaS and UCaaS platform with omnichannel routing, AI-powered agent assist, and analytics.
-
-
-
-- **[Vonage Contact Center](https://www.vonage.com/)**  
-
-  Cloud contact center with omnichannel routing, AI virtual assistant, and Salesforce-native integration.
-
-
-
-- **[Dialpad Ai Contact Center](https://www.dialpad.com/)**  
-
-  AI-powered contact center with real-time transcription, sentiment analysis, and omnichannel routing. Native Salesforce and Google Workspace integrations.
+| Platform | Company Valuation / Revenue | Starting Pricing | Free Tier / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[AWS Amazon Connect](https://aws.amazon.com/connect/)** | ~$2.8T market cap (Amazon) / ~$1B+ ARR | $0.018/min inbound + $0.004/min service usage ($0.01/chat message) | 12-Month Free Tier: 90 min/mo service usage, 1 local DID number, 30 min/mo inbound DID, 30 min/mo outbound calls | Cloud-based contact center service with pay-as-you-go pricing, Contact Lens AI assist, and native AWS ecosystem integration. |
+| **[Salesforce Contact Center](https://www.salesforce.com/)** | ~$200B+ market cap / ~$38B+ ARR | $75/user/month (Digital) or $125/user/month (Complete) | 30-Day Free Trial (Service Cloud trial environment; full feature evaluation without credit card) | Native Salesforce CCaaS bringing omnichannel voice, chat, and case management into Service Cloud with Einstein AI. |
+| **[Twilio Flex](https://www.twilio.com/flex)** | ~$45B+ market cap / ~$4.5B+ ARR | $1.00/active user hour or $150/named user/month | 5,000 free Active User Hours credit for new Flex projects (no expiration until paid plan selected; telephony usage billed separately) | Programmable cloud contact center platform built on Twilio APIs, customizable with serverless functions and React-based UI. |
+| **[Talkdesk](https://www.talkdesk.com/)** | ~$10B valuation (private) / ~$300M+ ARR | $85/user/month (Digital Essentials) or $105/user/month (Voice Essentials) | 15-Day Free Trial (via Talkdesk Express: up to 10 users, includes $100 pre-loaded telecom credits) | Cloud contact center platform with AI-powered agent assist (Copilot), omnichannel routing, and deep Salesforce integration. |
+| **[NICE CXone](https://www.nice.com/)** | ~$7B market cap / ~$2.8B+ ARR | $110/agent/month (Omnichannel Suite) | No free trial; guided sandbox / proof-of-concept available upon request via sales consultation | Enterprise cloud contact center platform with omnichannel routing, Enlighten AI agent assist, workforce management, and analytics. |
+| **[Vonage Contact Center](https://www.vonage.com/)** | ~$6.2B (acquired by Ericsson) / ~$1.4B+ ARR | $69/agent/month (starting tier quote estimate) | No free trial for VCC platform (communications API trial available with 5 verified numbers & demo watermark credits) | Cloud contact center with omnichannel routing, AI virtual assistant, and Salesforce-native integration. |
+| **[Genesys Cloud CX](https://www.genesys.com/)** | ~$3B ARR (private valuation) | $75/user/month (CX 1 Voice) or $115/user/month (CX 2 Omnichannel) | 30-Day Free Trial (GCXNow trial capped at 10 concurrent configured users, outbound restrictions, max 10 min/call) | Comprehensive CCaaS platform with omnichannel routing, AI forecasting, workforce engagement management, and CRM integrations. |
+| **[Five9](https://www.five9.com/)** | ~$2.5B market cap / ~$1.2B ARR | $119/user/month (Digital) or $159/user/month (Core Voice + Digital) | No free trial; custom proof-of-concept evaluation and guided product sandbox provided via sales | Intelligent cloud contact center with omnichannel routing, IVA, AI agent assist, and workforce optimization. |
+| **[Dialpad Ai Contact Center](https://www.dialpad.com/)** | ~$2.2B valuation (private) / ~$300M+ ARR | $80/user/month (Essentials) or $115/user/month (Advanced) | 14-Day Free Trial (includes core AI agent features, transcription, IVR call queues, and live coaching) | AI-powered contact center with real-time transcription, sentiment analysis, and omnichannel routing. |
+| **[8x8 Contact Center](https://www.8x8.com/)** | ~$300M market cap / ~$735M ARR | $85/user/month (X6 Voice) or $110/user/month (X7 Omnichannel) | No free trial for Contact Center (30-day trial available only on 8x8 Express business phone tier; demo on request) | Integrated CCaaS and UCaaS platform with omnichannel routing, AI-powered agent assist, and analytics. |
 
 
 
